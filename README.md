@@ -1,8 +1,8 @@
-------------------------Blog Project with Django--------------------------
-
+```
 This is an example/practice project to learn the basis of Django Framework
 
 in behalf of learning python language.
+```
 
 --------------------------------------------------------------------------
 Clone This Project (Make Sure You Have Git Installed)
