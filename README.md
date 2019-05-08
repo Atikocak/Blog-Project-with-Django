@@ -8,7 +8,7 @@ in behalf of learning python language.
 Clone This Project (Make Sure You Have Git Installed)
 --------------------------------------------------------------------------
 ```
-https://github.com/mustafamuratcoskun/DjangoBlogApp.git
+https://github.com/Atikocak/Blog-Project-with-Django.git
 ```
 ------------------------Installing Instructions---------------------------
 
