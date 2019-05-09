@@ -35,3 +35,10 @@ After all these steps , you can start testing and developing this project.
 
 Feel free to use! 
 Thanks to @mustafamuratcoskun
+
+--------------------------------------------------------------------------
+Preview of Project Example
+--------------------------------------------------------------------------
+```
+https://atikocak.pythonanywhere.com
+```
